@@ -1,16 +1,20 @@
-## Hi there 👋
+## Muqeet Ahmad there 👋
 
+👨‍💻 **Full Stack Web & Cloud Developer** pursuing degree in _Computer Engineering_, utilizing _4+ years’_ experience, developing and delivering beautiful and stunning products to clients.
 
-**EngrMuqeetAhmad/EngrMuqeetAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech & Tools:**
+ - Frontend: ReactJS, GatsbyJS, NextJS
+ - MERN Stack
+ - SEO Optimization
 
-Here are some ideas to get you started:
+☁️ **Cloud & DevOps:**
+ - Amazon Web Services (AWS)
+ - Infrastructure as Code
+ - AWS Amplify
+ - CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔧 **Version Control:**
+ - Git & GitHub
+
+Always eager to tackle new challenges and innovate in fast-paced environments.
 
