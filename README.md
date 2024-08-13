@@ -18,8 +18,41 @@
   
 ➕ **More**  
     &#9656; .NET Framework  
-    &#9656; C#  
+    &#9656; C# 
+    &#9656; C/C++  
     &#9656; Arduino  
 
-Always eager to tackle new challenges and innovate in fast&#9656;paced environments.
+Always eager to tackle new challenges and innovate in fast-paced environments.
+   
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,gatsby,next,dotnet" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,npm,linux" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,dynamodb" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,c,cpp,cs" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />   
+  </a>
+</p>
+
 
