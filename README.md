@@ -54,5 +54,14 @@ Always eager to tackle new challenges and innovate in fast-paced environments.
     <img src="https://skillicons.dev/icons?i=git,github,githubactions" />   
   </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />   
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs" />   
+  </a>
+</p>
 
