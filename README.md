@@ -1,4 +1,106 @@
-👨‍💻 Full Stack Web & Cloud Developer pursuing degree in Computer Engineering, utilizing 4+ years’ experience, developing and delivering beautiful and stunning products to clients.<br><br>🚀 Tech & Tools:<br>▸ ReactJS, GatsbyJS, NextJS<br>▸ NodeJS, ExpressJS, NestJS<br><br>▸ AI Applications & Integrations<br>▸ LangChain<br><br>▸ SQL & No SQL DB<br>▸ SEO<br><br>☁️ Cloud & DevOps:<br>▸ Amazon Web Services (AWS)<br>▸ Infrastructure as Code<br>▸ CI/CD<br><br>🔧 Version Control:<br>▸ Git & GitHub<br><br>➕ More<br>▸ .NET Framework<br>▸ C#<br>▸ C/C++<br>▸ Arduino<br><br>Always eager to tackle new challenges and innovate in fast-paced environments
+A Full Stack Software Engineer backed by Computer Engineering background, skilled at solving complex problems and building robust, scalable systems. Brings expertise across frontend, backend, distributed computing, networking, databases, AI driven automation and system design.
+
+## 🚀 Architectures
+- Monolithic Architecture
+- Serverless Architecture
+- Microservices Architecture
+- Event-driven Architecture
+
+
+
+## 🛠️ Tech & Tools
+
+### ⚙️ Messaging & Streaming
+- Apache Kafka
+
+### ☁️ AWS Services
+- EC2  
+- CloudFront  
+- S3  
+- AWS Lambda (FaaS)  
+- API Gateway  
+- DynamoDB  
+- Cognito  
+- IAM  
+- CloudFormation  
+- AWS SDK (TypeScript)  
+- AWS Amplify  
+
+### 🎨 Frontend
+- Angular  
+- ReactJS  
+- GatsbyJS  
+- NextJS  
+- TailwindCSS  
+- shadcn/ui  
+- Bootstrap  
+
+### 🧩 Backend
+- NodeJS  
+- ExpressJS  
+- NestJS  
+
+### 🗄️ Databases
+- PostgreSQL  
+- MongoDB  
+- DynamoDB  
+
+### 🧠 State Management
+- Redux  
+
+### 🤖 AI / LLM Systems
+- LangChain  
+- LangGraph  
+- RAG Pipelines  
+- Agent Development & Orchestration  
+
+### 🗂️ ORM
+- Sequelize  
+- Prisma  
+
+### 🔌 Integrations & Utilities
+- Stripe  
+- Deepgram
+- Socket.io  
+- Puppeteer  
+- SEO Optimization  
+
+### 🔄 CI/CD
+- GitHub Actions  
+
+
+
+## ☁️ Cloud & DevOps
+- Linux  
+- Apache  
+- Nginx  
+- Amazon Web Services (AWS)  
+
+
+
+## 🧱 Virtualization & Containers
+- Xen  
+- OpenStack  
+- LXD  
+- Docker  
+
+
+
+## 🔧 Version Control
+- Git  
+- GitHub  
+
+
+## ➕ Additional Technologies
+- .NET Framework  
+- C#  
+- C / C++  
+- Arduino  
+- STM32
+
+
+> Always eager to tackle new challenges and innovate in fast-paced environments.
+
 
 
 ## 🌐 Socials:
